@@ -9,6 +9,7 @@ public class Greeting {
         this.id = id;
         this.content = content;
         //test
+        //another commit
 
     }
 
